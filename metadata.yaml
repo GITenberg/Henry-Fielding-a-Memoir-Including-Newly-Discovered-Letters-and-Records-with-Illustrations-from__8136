@@ -1,0 +1,24 @@
+_repo: Henry-Fielding-a-Memoir-Including-Newly-Discovered-Letters-and-Records-with-Illustrations-from__8136
+creator:
+  author:
+    agent_name: Godden, G. M. (Gertrude M.)
+    alias: Godden, Gertrude M.
+    gutenberg_agent_id: '2658'
+    url: http://www.gutenberg.org/2009/agents/2658
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fielding, Henry, 1707-1754 -- Correspondence'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Fielding, Henry, 1707-1754'
+title: "Henry Fielding: a Memoir\r\nIncluding Newly Discovered Letters and Records\
+  \ with Illustrations from Contemporary Prints"
+url: http://www.gutenberg.org/ebooks/8136
