@@ -1,4 +1,8 @@
 _repo: Henry-Fielding-a-Memoir-Including-Newly-Discovered-Letters-and-Records-with-Illustrations-from__8136
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Godden, G. M. (Gertrude M.)
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '2658'
     url: http://www.gutenberg.org/2009/agents/2658
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8136#Henry-Fielding-a-Memoir-Including-Newly-Discovered-Letters-and-Records-with-Illustrations-from_
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
